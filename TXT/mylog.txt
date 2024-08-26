@@ -1,8 +1,14 @@
+# START: Mon 26 Aug 2024 08:00
+# ######################################
+# https://doit.vlsm.org/ETC/logCodes.txt
+# ######################################
+#
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+
 ZCZC W00 60 L00 General, etc.
 ZCZC W00 10 L01 SCELE/Discord related
+ZCZC W00 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W00 10 L03 GitHub related
 ZCZC W00 10 L04 GitHub Pages related
-ZCZC W00 100 L05 CLASSROOM/ZOOM meetings related
