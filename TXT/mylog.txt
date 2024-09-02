@@ -18,4 +18,3 @@ ZCZC W00 20 L05 Zoom meeting for quiz
 
 ZCZC W01 100 L02 CLASSROOM meeting
 ZCZC W01 120 L11 Weekly Assignment 01
->>>>>>> a36ebbcb8c3ee9149282296e0b32a9f0dfaecd7b
