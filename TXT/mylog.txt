@@ -18,3 +18,4 @@ ZCZC W00 20 L05 Zoom meeting for quiz
 ZCZC W01 100 L02 CLASSROOM meeting
 ZCZC W01 360 L11 Weekly Assignment 01
 ZCZC W01 100 L02 CLASSROOM meeting
+ZCZC W01 10 L21 Trying something
