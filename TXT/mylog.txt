@@ -21,5 +21,13 @@ ZCZC W01 100 L02 CLASSROOM meeting
 ZCZC W01 10 L21 Trying something
 ZCZC W01 30 L04 Update Github page routing
 ZCZC W01 20 L03 Fixed Github head ref problem
-ZCZC W01 30 L11 Trying Week01 demos
-ZCZC W01 60 L11 Trying Week01 demos
+ZCZC W01 30 L07 Trying WEEK01 demos
+ZCZC W01 60 L07 Trying WEEK01 demos
+ZCZC W02 100 L02 CLASSROOM meeting
+ZCZC W02 60 L12 Weekly Assignment 02
+ZCZC W02 100 L02 CLASSROOM meeting
+ZCZC W02 180 L02 Weekly Assignment 02
+ZCZC W02 60 L07 Trying WEEK02 demos
+ZCZC W02 60 L01 Discussing possible implementations for POP QUIZ
+ZCZC W02 30 L06 Reading REGEX Cheatsheet
+ZCZC W02 20 L05 Zoom meeting for quiz
