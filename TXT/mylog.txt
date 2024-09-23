@@ -31,3 +31,9 @@ ZCZC W02 60 L07 Trying WEEK02 demos
 ZCZC W02 60 L01 Discussing possible implementations for POP QUIZ
 ZCZC W02 30 L06 Reading REGEX Cheatsheet
 ZCZC W02 20 L05 Zoom meeting for quiz
+ZCZC W03 100 L02 CLASSROOM meeting
+ZCZC W03 360 L13 Weekly Assignment 03
+ZCZC W03 60 L07 Trying WEEK03 demos
+ZCZC W03 30 L01 Doing POP QUIZ
+ZCZC W03 5 L03 Github related
+ZCZC W03 10 L06 Browsing LINKS to be added to links.md
