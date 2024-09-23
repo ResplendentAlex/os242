@@ -37,3 +37,5 @@ ZCZC W03 60 L07 Trying WEEK03 demos
 ZCZC W03 30 L01 Doing POP QUIZ
 ZCZC W03 5 L03 Github related
 ZCZC W03 10 L06 Browsing LINKS to be added to links.md
+ZCZC W03 30 L64 Helping a friend (OS related problem)
+
