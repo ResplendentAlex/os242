@@ -38,4 +38,17 @@ ZCZC W03 30 L01 Doing POP QUIZ
 ZCZC W03 5 L03 Github related
 ZCZC W03 10 L06 Browsing LINKS to be added to links.md
 ZCZC W03 30 L64 Helping a friend (OS related problem)
+ZCZC W04 100 L02 CLASSROOM meeting
+ZCZC W04 60 L07 Trying WEEK04 demos
+ZCZC W04 20 L05 Zoom meeting for quiz
+ZCZC W04 10 L06 Browsing LINKs to be added to links.md
+ZCZC W04 100 L02 CLASSROOM meeting
+ZCZC W04 60 L07 Trying WEEK04 demos
+ZCZC W04 120 L14 Weekly Assignment 4
+ZCZC W04 35 L64 Helping a friend (OS related problem)
+ZCZC W04 70 L01 Doing POP QUIZ
+ZCZC W04 15 L41 UPDATE mylog.txt
+ZCZC W04 5 L43 UPDATE myrank.txt
+ZCZC W04 60 L06 Consulting ChatGPT for commands to scp files
+ZCZC W04 5 L03 commit, add, push to git
 

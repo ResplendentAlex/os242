@@ -9,3 +9,4 @@ permalink: LINKS/
 6. [More REGEX Tutorial](https://regextutorial.org/) - Cheatsheet for REGEX.
 7. [OVA Backup Tutorial](https://itsfoss.com/virtualbox-backup-clone/) - Tutorial to backup OVAs.
 8. [Another OVA Backup Tutorial](https://docs.oracle.com/cd/E50245_01/E50251/html/vmadm-vm-backup.html) - Another tutorial to backup OVAs.
+9. [Operating Systems Programming Slides](https://docos.vlsm.org/) - Slides with Latex source code.
