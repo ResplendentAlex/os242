@@ -10,3 +10,5 @@ permalink: LINKS/
 7. [OVA Backup Tutorial](https://itsfoss.com/virtualbox-backup-clone/) - Tutorial to backup OVAs.
 8. [Another OVA Backup Tutorial](https://docs.oracle.com/cd/E50245_01/E50251/html/vmadm-vm-backup.html) - Another tutorial to backup OVAs.
 9. [Operating Systems Programming Slides](https://docos.vlsm.org/) - Slides with Latex source code.
+10. [C Documentation](https://devdocs.io/c/) - Documentation for C programming.
+11. [Vim Editor Shorcuts](https://www.thegeekdiary.com/basic-vi-commands-cheat-sheet/) - Vim Editor Cheat Sheet.

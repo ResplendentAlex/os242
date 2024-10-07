@@ -1,5 +1,8 @@
 # WEEKLY 3 of 10 RANKS
 # Check https://os.vlsm.org/Log/
+ZCZC W05 henryak25
+ZCZC W05 Cyades
+ZCZC W05 Danniel-Ang
 ZCZC W04 zerothy
 ZCZC W04 thorbert-anson-shi
 ZCZC W04 syauqiyasman
@@ -9,4 +12,3 @@ ZCZC W03 stefarion
 ZCZC W02 HamletJr
 ZCZC W02 Andrew4Coding
 ZCZC W02 hyvos07
-ZCZC W03 lantry-glitch

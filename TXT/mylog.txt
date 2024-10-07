@@ -51,4 +51,13 @@ ZCZC W04 15 L41 UPDATE mylog.txt
 ZCZC W04 5 L43 UPDATE myrank.txt
 ZCZC W04 60 L06 Consulting ChatGPT for commands to scp files
 ZCZC W04 5 L03 commit, add, push to git
-
+ZCZC W05 100 L02 CLASSROOM meeting
+ZCZC W05 100 L02 CLASSROOM meeting
+ZCZC W05 240 L15 Weekly Assignment 5
+ZCZC W05 60 L06 Consulting ChatGPT for commands to encrypt files
+ZCZC W05 30 L06 Browse Google for commands to scp files
+ZCZC W05 15 L41 UPDATE mylog.txt
+ZCZC W05 5 L43 UPDATE myranka.txt
+ZCZC W05 60 L07 Trying WEEK05 demos
+ZCZC W05 10 L05 Browing LINKs to be added to links.md
+ZCZC W05 90 L01 Doing POP QUIZ
