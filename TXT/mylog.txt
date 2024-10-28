@@ -57,7 +57,16 @@ ZCZC W05 240 L15 Weekly Assignment 5
 ZCZC W05 60 L06 Consulting ChatGPT for commands to encrypt files
 ZCZC W05 30 L06 Browse Google for commands to scp files
 ZCZC W05 15 L41 UPDATE mylog.txt
-ZCZC W05 5 L43 UPDATE myranka.txt
+ZCZC W05 5 L43 UPDATE myrank.txt
 ZCZC W05 60 L07 Trying WEEK05 demos
-ZCZC W05 10 L05 Browing LINKs to be added to links.md
+ZCZC W05 10 L05 Browsing LINKs to be added to links.md
 ZCZC W05 90 L01 Doing POP QUIZ
+ZCZC W06 180 L16 Weekly Assignment 6
+ZCZC W06 100 L02 CLASSROOM meeting
+ZCZC W06 100 L02 CLASSROOM meeting
+ZCZC W06 30 L06 Browsing LINKs to be added to links.md
+ZCZC W06 5 L43 UPDATE myrank.txt
+ZCZC W06 15 L41 UPDATE mylog.txt
+ZCZC W06 10 L64 Helping a friend (OS Related problem)
+ZCZC W06 120 L01 Doing POP QUIZ
+ZCZC W06 60 L07 Trying WEEK06 demos
