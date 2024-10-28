@@ -12,3 +12,5 @@ permalink: LINKS/
 9. [Operating Systems Programming Slides](https://docos.vlsm.org/) - Slides with Latex source code.
 10. [C Documentation](https://devdocs.io/c/) - Documentation for C programming.
 11. [Vim Editor Shorcuts](https://www.thegeekdiary.com/basic-vi-commands-cheat-sheet/) - Vim Editor Cheat Sheet.
+12. [Memory Management in OS](https://www.geeksforgeeks.org/memory-management-in-operating-system/) - An overview of memory management in operating systems.
+13. [MALLOC vs MMAP](https://www.diffzy.com/article/difference-between-mmap-and-malloc-760) - Comparisan between the malloc() and mmap() function.
