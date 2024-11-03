@@ -14,3 +14,5 @@ permalink: LINKS/
 11. [Vim Editor Shorcuts](https://www.thegeekdiary.com/basic-vi-commands-cheat-sheet/) - Vim Editor Cheat Sheet.
 12. [Memory Management in OS](https://www.geeksforgeeks.org/memory-management-in-operating-system/) - An overview of memory management in operating systems.
 13. [MALLOC vs MMAP](https://www.diffzy.com/article/difference-between-mmap-and-malloc-760) - Comparisan between the malloc() and mmap() function.
+14. [Docusaurus Documentation](https://docusaurus.io/docs/category/guides) - Documentation for the Docusaurus Web
+15. [Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) - An introduction to Process Synchronization
