@@ -16,3 +16,5 @@ permalink: LINKS/
 13. [MALLOC vs MMAP](https://www.diffzy.com/article/difference-between-mmap-and-malloc-760) - Comparisan between the malloc() and mmap() function.
 14. [Docusaurus Documentation](https://docusaurus.io/docs/category/guides) - Documentation for the Docusaurus Web
 15. [Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) - An introduction to Process Synchronization
+16. [LFS 12.2](https://www.linuxfromscratch.org/lfs/view/12.2/index.html) - Step by step setup for Linux from Scratch 12.2
+17. [Kernotex Youtube Channel](https://www.youtube.com/@Kernotex) - Youtube Channel by Kernotex that helps in doing the LFS 12.2 
